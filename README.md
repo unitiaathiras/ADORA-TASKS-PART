@@ -16,3 +16,8 @@ FEATURES
 3) Tell me Day
 
 ![adora_tell_me_day](https://github.com/unitiaathiras/ADORA-TASKS-PART/assets/127323277/ebfa28a0-d3ce-4f51-b72c-b8c7a49e1ba8)
+
+4) Wikipedia Searches
+
+
+5) Google search

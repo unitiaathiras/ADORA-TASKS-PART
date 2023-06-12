@@ -24,6 +24,9 @@ FEATURES
 
 5) Google search
 
+![ask_google](https://github.com/unitiaathiras/ADORA-TASKS-PART/assets/127323277/25af5e9d-d245-4f92-92e3-fe879fcacbba)
+
+
 ![google search](https://github.com/unitiaathiras/ADORA-TASKS-PART/assets/127323277/5a4df24c-b94f-430a-8c71-06e6ad775f62)
 
 

@@ -18,6 +18,17 @@ FEATURES
 ![adora_tell_me_day](https://github.com/unitiaathiras/ADORA-TASKS-PART/assets/127323277/ebfa28a0-d3ce-4f51-b72c-b8c7a49e1ba8)
 
 4) Wikipedia Searches
+![wikipedia](https://github.com/unitiaathiras/ADORA-TASKS-PART/assets/127323277/ef0b41b2-6ae9-46ef-b49c-3c1426330358)
+
 
 
 5) Google search
+
+![google search](https://github.com/unitiaathiras/ADORA-TASKS-PART/assets/127323277/5a4df24c-b94f-430a-8c71-06e6ad775f62)
+
+
+
+6) Youtube saerch with autoplay
+
+![adora_autoplay_youtube](https://github.com/unitiaathiras/ADORA-TASKS-PART/assets/127323277/40b0b687-7903-49be-b539-9fe3cc0c32ab)
+

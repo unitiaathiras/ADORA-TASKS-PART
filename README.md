@@ -4,6 +4,13 @@ adora acts like an desktop operator
 FEATURES 
 
 1) Tell me time
+2) Open Applications
+3) Tell me date
+4) Tell me day
+5) Wikipedia searches
+6) Google searches
+7) Youtube Searches
+  a)autoplay
 
 ![adora_tell_me_time](https://github.com/unitiaathiras/ADORA-TASKS-PART/assets/127323277/965323a0-49f7-4fe6-b512-0b03f7e59685)
 

@@ -13,7 +13,7 @@ FEATURES
   a)autoplay
 8) Screenshot
 9) Tell me jokes
-10) Play music
+ 10) Play music
 
 ![adora_tell_me_time](https://github.com/unitiaathiras/ADORA-TASKS-PART/assets/127323277/965323a0-49f7-4fe6-b512-0b03f7e59685)
 
